@@ -136,7 +136,7 @@ p {
 
 @media screen and (max-width: 480px) {
     .s-five {
-        background: #fff url('../images/bg-gunung2.png') top left no-repeat;
+        background: #fff url('../Images/bg-gunung2.png') top left no-repeat;
         background-size: contain;
         width: 100%;
         height: auto;
