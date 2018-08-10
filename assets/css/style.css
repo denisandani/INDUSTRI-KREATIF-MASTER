@@ -38,7 +38,7 @@ p {
 
 @media screen and (min-width: 481px) {
     .hero-banner {
-        background: #d3eeee url('../images/1-bg.png') bottom no-repeat;
+        background: #d3eeee url('../Images/1-bg.png') bottom no-repeat;
         background-size: contain;
         width: 100%;
         height: 100vh;
@@ -48,7 +48,7 @@ p {
 
 @media screen and (max-width: 480px) {
     .hero-banner {
-        background: #d3eeee url('../images/mobile/1-bg.png') bottom no-repeat;
+        background: #d3eeee url('../Images/mobile/1-bg.png') bottom no-repeat;
         background-size: contain;
         width: 100%;
         height: 550px;
@@ -58,7 +58,7 @@ p {
 
 @media screen and (min-width: 481px) {
     .s-two {
-        background: #d3eeee url('../images/2-bg.png') top no-repeat;
+        background: #d3eeee url('../Images/2-bg.png') top no-repeat;
         background-size: contain;
         width: 100%;
         height: auto;
@@ -68,7 +68,7 @@ p {
 
 @media screen and (max-width: 480px) {
     .s-two {
-        background: #d3eeee url('../images/mobile/2-bg.png') top left no-repeat;
+        background: #d3eeee url('../Images/mobile/2-bg.png') top left no-repeat;
         background-size: contain;
         width: 100%;
         height: auto;
@@ -78,7 +78,7 @@ p {
 
 @media screen and (min-width: 481px) {
     .s-three {
-        background: #fff url('../images/bg-gunung2.png') top right no-repeat;
+        background: #fff url('../Images/bg-gunung2.png') top right no-repeat;
         background-size: contain;
         width: 100%;
         height: auto;
@@ -88,7 +88,7 @@ p {
 
 @media screen and (max-width: 480px) {
     .s-three {
-        background: #fff url('../images/bg-gunung2.png') top right no-repeat;
+        background: #fff url('../Images/bg-gunung2.png') top right no-repeat;
         background-size: contain;
         width: 100%;
         height: auto;
@@ -98,7 +98,7 @@ p {
 
 @media screen and (min-width: 481px) {
     .hero-banner2 {
-        background: #fff url('../images/4-bg.png') bottom no-repeat;
+        background: #fff url('../Images/4-bg.png') bottom no-repeat;
         background-size: contain;
         width: 100%;
         height: 100vh;
@@ -109,7 +109,7 @@ p {
 
 @media screen and (max-width: 480px) {
     .hero-banner2 {
-        background: #fff url('../images/mobile/4-bg.png') bottom no-repeat;
+        background: #fff url('../Images/mobile/4-bg.png') bottom no-repeat;
         background-size: contain;
         width: 100%;
         height: 430px;
@@ -126,7 +126,7 @@ p {
 
 @media screen and (min-width: 481px) {
     .s-five {
-        background: #fff url('../images/bg-gunung2.png') top right no-repeat;
+        background: #fff url('../Images/bg-gunung2.png') top right no-repeat;
         background-size: contain;
         width: 100%;
         height: auto;
@@ -147,7 +147,7 @@ p {
 
 @media screen and (min-width: 481px) {
     .s-six {
-        background: #fff url('../images/7-bg.png') top repeat-x;
+        background: #fff url('../Images/7-bg.png') top repeat-x;
         background-size: contain;
         width: 100%;
         padding-bottom: 65px;
@@ -158,7 +158,7 @@ p {
 
 @media screen and (max-width: 480px) {
     .s-six {
-        background: #fff  url('../images/7-bg.png') top repeat-x;
+        background: #fff  url('../Images/7-bg.png') top repeat-x;
         background-size: contain;
         width: 100%;
         padding-bottom: 45px;
@@ -404,7 +404,7 @@ p {
 
 
 .bg-testimoni-kotak {
-    background-image: url('../images/kotak.png');
+    background-image: url('../Images/kotak.png');
     padding: 65px 30px 40px 30px;
     border-radius: 10px;
 
