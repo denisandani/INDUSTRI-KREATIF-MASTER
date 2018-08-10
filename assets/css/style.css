@@ -293,11 +293,21 @@ p {
     color: #f9d366 !important;
 }
 
+@media screen and (min-width: 481px) {
 .img-testimoni {
     position: relative;
     top: 60px;
     left: 40px;
 }
+}
+
+@media screen and (max-width: 480px) {
+.img-testimoni {
+    position: relative;
+    top: 60px;
+}
+}
+
 @media screen and (min-width: 481px) {
 .img-testimoni img{
     width: 50%;
